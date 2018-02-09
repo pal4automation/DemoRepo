@@ -11,4 +11,7 @@ public class HomePageTestCase {
         System.out.println("This is my Second Test Case");
     }
 
+    public void testCase3(){
+        System.out.println("Method in Local ");
+    }
 }
