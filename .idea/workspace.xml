@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5944daf2-5b68-49ff-a212-4c68b6d9367d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/qa/pages/AddedFromBranch_A.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/qa/pages/ClassFromRefactorB.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/qa/pages/AddedFromBranch_A.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -73,14 +74,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddedFromBranch_A.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/pages/AddedFromBranch_A.java">
+      <file leaf-file-name="ClassFromRefactorB.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/pages/ClassFromRefactorB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="62" lean-forward="false" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
-                <element signature="e#91#92#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,7 +100,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="BranchA" />
       </map>
     </option>
   </component>
@@ -116,6 +117,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/qa/testcases/HomePageTestCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/qa/pages/SearchPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/qa/pages/AddedFromBranch_A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qa/pages/ClassFromPageB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qa/pages/ClassFromRefactorB.java" />
       </list>
     </option>
   </component>
@@ -330,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518168217544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added new test case.">
+      <created>1518170212983</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1518170212983</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -462,6 +472,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/pages/AddedFromBranch_A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/pages/SearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -470,13 +488,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/pages/AddedFromBranch_A.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qa/pages/ClassFromRefactorB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="62" lean-forward="false" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
           </folding>
         </state>
       </provider>
